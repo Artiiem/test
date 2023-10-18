@@ -1,0 +1,14 @@
+---
+title: "tescik"
+author: "ak"
+format: html
+editor: visual
+---
+
+## 
+
+tescik
+
+```{r}
+  head(iris)
+```
