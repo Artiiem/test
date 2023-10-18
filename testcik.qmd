@@ -25,3 +25,5 @@ plot(model)
 ```{r}
 cor(iris$Sepal.Length,iris$Sepal.Width)
 ```
+
+jeszcze raz
