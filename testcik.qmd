@@ -10,5 +10,14 @@ editor: visual
 tescik
 
 ```{r}
-  head(iris)
+colnames(iris)
+```
+
+```{r}
+model <- lm(Sepal.Length ~Sepal.Width,data=iris)
+summary(model)
+```
+
+```{r}
+plot(model)
 ```
