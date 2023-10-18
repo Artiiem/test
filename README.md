@@ -1,1 +1,2 @@
 # test
+sprawdzmy czy zadziala
